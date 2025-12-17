@@ -1,4 +1,5 @@
 # Awash Bank Fraud Detection & Risk Analytics Platform
+- LiveDashboard Link: (https://awash-bank-fraud-analytics-ak6kjycnmdbo3thyrh2enf.streamlit.app/)
 
 **An interactive fraud monitoring and real-time risk prediction dashboard simulating operations at Awash Bank S.C., Ethiopia's leading private commercial bank.**
 
