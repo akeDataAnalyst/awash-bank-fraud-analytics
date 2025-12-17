@@ -4,7 +4,7 @@
 
 This portfolio project demonstrates end-to-end data analytics, machine learning, and BI development skills through a production-ready fraud detection system.
 
-![Awash Bank Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Awash_Bank_Final_logo.jpg/600px-Awash_Bank_Final_logo.jpg)
+![Awash Bank Log](OIP.webp)
 
 ## Project Overview
 
